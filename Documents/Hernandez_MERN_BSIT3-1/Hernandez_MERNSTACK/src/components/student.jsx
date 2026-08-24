@@ -9,4 +9,4 @@ function Student({name, age, course, section, studentnumber}) {
         </div>
     )
 }
-export default Student;     printf "protocol=https\nhost=github.com\n\n" | git credential-manager erase
+export default Student;    
